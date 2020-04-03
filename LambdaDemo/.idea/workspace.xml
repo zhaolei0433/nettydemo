@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ce3530a-ac27-4962-b668-c5571845cec5" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YQQjnLnu98NOgnFkoMqQl3jR9Q" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>ObjectEquality</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577773464844" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16020235" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEAWorkSpace\springbootDemo\LambdaDemo\lib" />
+      <recent name="E:\IDEAWorkSpace\ZhaoleiDemo\LambdaDemo\src\test1" />
+      <recent name="E:\IDEAWorkSpace\ZhaoleiDemo\LambdaDemo\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.jaxb">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1.DataTest" />
+      <module name="Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DownloadPic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1.DownloadPic" />
+      <module name="Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jaxb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1.jaxb" />
+      <module name="Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1.main" />
+      <module name="Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1.test" />
+      <module name="Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.DataTest" />
+      <item itemvalue="Application.DownloadPic" />
+      <item itemvalue="Application.jaxb" />
+      <item itemvalue="Application.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.jaxb" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.DownloadPic" />
+        <item itemvalue="Application.DataTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ce3530a-ac27-4962-b668-c5571845cec5" name="Default" comment="" />
+      <created>1530774284005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530774284005</updated>
+      <workItem from="1530774285958" duration="7820000" />
+      <workItem from="1530846912032" duration="1400000" />
+      <workItem from="1530848908138" duration="299000" />
+      <workItem from="1544064636914" duration="1698000" />
+      <workItem from="1544448760715" duration="5035000" />
+      <workItem from="1544494082413" duration="591000" />
+      <workItem from="1544605235072" duration="2460000" />
+      <workItem from="1544715014793" duration="1388000" />
+      <workItem from="1545102947966" duration="3266000" />
+      <workItem from="1545190679732" duration="33000" />
+      <workItem from="1546595705424" duration="323000" />
+      <workItem from="1546828819963" duration="10062000" />
+      <workItem from="1547196406287" duration="735000" />
+      <workItem from="1547458040017" duration="18000" />
+      <workItem from="1547523278958" duration="115000" />
+      <workItem from="1547606864475" duration="1941000" />
+      <workItem from="1548120550374" duration="2045000" />
+      <workItem from="1548214274055" duration="7400000" />
+      <workItem from="1548842433512" duration="2372000" />
+      <workItem from="1548896563361" duration="7337000" />
+      <workItem from="1550222461888" duration="2669000" />
+      <workItem from="1551090404678" duration="2180000" />
+      <workItem from="1553848759112" duration="2019000" />
+      <workItem from="1554712260363" duration="3408000" />
+      <workItem from="1554955775305" duration="4534000" />
+      <workItem from="1555481413886" duration="902000" />
+      <workItem from="1557019047939" duration="4359000" />
+      <workItem from="1557196204286" duration="1102000" />
+      <workItem from="1558518412505" duration="971000" />
+      <workItem from="1558599997632" duration="722000" />
+      <workItem from="1559113377636" duration="185000" />
+      <workItem from="1559212628545" duration="5862000" />
+      <workItem from="1559301446043" duration="672000" />
+      <workItem from="1559553569305" duration="881000" />
+      <workItem from="1559782796255" duration="2670000" />
+      <workItem from="1560329381823" duration="168000" />
+      <workItem from="1560391973030" duration="942000" />
+      <workItem from="1560506783320" duration="189000" />
+      <workItem from="1560932672904" duration="2391000" />
+      <workItem from="1561078594929" duration="720000" />
+      <workItem from="1561114757478" duration="777000" />
+      <workItem from="1561348690563" duration="2658000" />
+      <workItem from="1561366054380" duration="3580000" />
+      <workItem from="1561377670400" duration="3083000" />
+      <workItem from="1562556752235" duration="2112000" />
+      <workItem from="1563445207743" duration="1522000" />
+      <workItem from="1564480592078" duration="2253000" />
+      <workItem from="1565860651483" duration="1343000" />
+      <workItem from="1566877143673" duration="1349000" />
+      <workItem from="1571383251494" duration="5450000" />
+      <workItem from="1577758584941" duration="285000" />
+      <workItem from="1577759473905" duration="802000" />
+      <workItem from="1577764636407" duration="609000" />
+      <workItem from="1582872478361" duration="807000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1876" height="-12" key="GridCell.Tab.0.bottom" timestamp="1582879569050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="-12" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582879569050" />
+    <state width="1876" height="-12" key="GridCell.Tab.0.center" timestamp="1582879569050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="-12" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582879569050" />
+    <state width="1876" height="-12" key="GridCell.Tab.0.left" timestamp="1582879569050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="-12" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582879569050" />
+    <state width="1876" height="-12" key="GridCell.Tab.0.right" timestamp="1582879569050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="-12" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582879569050" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

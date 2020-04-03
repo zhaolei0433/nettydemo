@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfb5e4f0-0019-41b4-a74a-c36c19108fb7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/service/QueueProduceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/service/impl/QueueProduceServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSocketDemo/src/main/java/com/example/WebSocketDemo/ScheduleTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSocketDemo/src/main/resources/static/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernatedemo/src/main/java/com/example/hibernatedemo/dao/oneToMany/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernatedemo/src/main/java/com/example/hibernatedemo/dao/oneToMany/IOrderFormRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernatedemo/src/main/java/com/example/hibernatedemo/dao/oneToOne/IAuthorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernatedemo/src/main/java/com/example/hibernatedemo/entity/one/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernatedemo/src/main/java/com/example/hibernatedemo/entity/oneToMany/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernatedemo/src/main/java/com/example/hibernatedemo/entity/oneToMany/CustomerVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernatedemo/src/main/java/com/example/hibernatedemo/entity/oneToMany/OrderForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernatedemo/src/test/java/com/example/hibernatedemo/HibernatedemoApplicationOneToMoneyTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpdemo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitdemo2/src/main/java/com/example/rabbitdemo2/RabbitConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitdemo2/src/main/java/com/example/rabbitdemo2/SystemDefines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/controller/ManagerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/controller/ManagerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/controller/respones/ManagerVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/controller/respones/ManagerVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/controller/respones/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/controller/respones/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/dao/ManagerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/dao/ManagerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/dto/LoginInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/dto/LoginInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/entity/ManagerInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/entity/ManagerInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/global/Globals.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/global/Globals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/global/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/global/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/global/RequestParamErrorException.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/global/RequestParamErrorException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/global/SpringUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/global/SpringUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/global/SystemDefines.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/global/SystemDefines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/interceptor/MyInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/interceptor/MyInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/jwt/JwtSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/jwt/JwtSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/jwt/JwtToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/jwt/JwtToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/jwt/JwtTokenUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/jwt/JwtTokenUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/jwt/RawAccessJwtToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/jwt/RawAccessJwtToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/jwt/exception/JWTInvalidTokenException.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/jwt/exception/JWTInvalidTokenException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/jwt/exception/JwtExpiredTokenException.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/jwt/exception/JwtExpiredTokenException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/service/ManagerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/service/ManagerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/service/MyRedisService.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/service/MyRedisService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/service/impl/ManagerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/service/impl/ManagerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/task/AsyncTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/task/AsyncTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/task/QueuesTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/task/QueuesTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/task/ScheduleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/java/cn/ipanel/authorization/demo/task/ScheduleTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthorizationDemo/src/test/java/cn/ipanel/authorization/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthorizationDemo/src/test/java/cn/ipanel/authorization/demo/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSocketDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebSocketDemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSocketDemo/src/main/java/com/example/WebSocketDemo/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/WebSocketDemo/src/main/java/com/example/WebSocketDemo/MessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSocketDemo/src/main/java/com/example/WebSocketDemo/WebSocketDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/WebSocketDemo/src/main/java/com/example/WebSocketDemo/WebSocketDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSocketDemo/src/main/java/com/example/WebSocketDemo/WebSocketServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/WebSocketDemo/src/main/java/com/example/WebSocketDemo/WebSocketServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSocketDemo/src/main/resources/static/WebSocket.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebSocketDemo/src/main/resources/static/WebSocket.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSocketDemo/src/test/java/com/example/WebSocketDemo/WebSocketDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/WebSocketDemo/src/test/java/com/example/WebSocketDemo/WebSocketDemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernatedemo/src/main/java/com/example/hibernatedemo/dao/IBookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/hibernatedemo/src/main/java/com/example/hibernatedemo/dao/oneToOne/IBookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernatedemo/src/main/java/com/example/hibernatedemo/entity/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/hibernatedemo/src/main/java/com/example/hibernatedemo/entity/one/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernatedemo/src/main/java/com/example/hibernatedemo/entity/BookVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hibernatedemo/src/main/java/com/example/hibernatedemo/entity/one/BookVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernatedemo/src/test/java/com/example/hibernatedemo/HibernatedemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/hibernatedemo/src/test/java/com/example/hibernatedemo/HibernatedemoApplicationOneTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpdemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/httpdemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpdemo/src/main/java/com/example/httpdemo/HttpDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/httpdemo/src/main/java/com/example/httpdemo/HttpDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpdemo/src/main/java/com/example/httpdemo/HttpdemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/httpdemo/src/main/java/com/example/httpdemo/HttpdemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpdemo/src/test/java/com/example/httpdemo/HttpdemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/httpdemo/src/test/java/com/example/httpdemo/HttpdemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/src/main/java/com/example/rabbitdemo/CompleteMessageCorrelationData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/src/main/java/com/example/rabbitdemo/HelloReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/src/main/java/com/example/rabbitdemo/HelloReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/src/main/java/com/example/rabbitdemo/HelloReceiver2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/src/main/java/com/example/rabbitdemo/HelloSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/src/main/java/com/example/rabbitdemo/HelloSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/src/main/java/com/example/rabbitdemo/QueueService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/src/main/java/com/example/rabbitdemo/QueueService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/src/main/java/com/example/rabbitdemo/RabbitConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/src/main/java/com/example/rabbitdemo/RabbitConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/src/main/java/com/example/rabbitdemo/RabbitdemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/src/main/java/com/example/rabbitdemo/RabbitdemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo2/src/main/java/com/example/rabbitdemo2/HelloReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo2/src/main/java/com/example/rabbitdemo2/HelloReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo2/src/main/java/com/example/rabbitdemo2/HelloReceiver2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitdemo2/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitdemo2/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AuthorizationDemo" />
+  </component>
+  <component name="ProjectId" id="1a0cwNSTYXGLj5c95hZyRpGf7eg" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/AndroidSDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springcloud-demo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettydemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.nettydemo.NettydemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfb5e4f0-0019-41b4-a74a-c36c19108fb7" name="Default Changelist" comment="" />
+      <created>1548315943521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548315943521</updated>
+      <workItem from="1548315955040" duration="166000" />
+      <workItem from="1555668752901" duration="10000" />
+      <workItem from="1585876192647" duration="1262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1585878844894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585878844894" />
+    <state x="821" y="409" key="Github.ShareDialog" timestamp="1585878798956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="821" y="409" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585878798956" />
+    <state x="681" y="138" key="Github.UntrackedFilesDialog" timestamp="1585878822964">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="138" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585878822964" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

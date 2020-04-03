@@ -1,0 +1,14 @@
+server:
+  port: 9001
+spring:
+  data:
+    mongodb:
+      uri: mongodb://ipanel_ifs_web:IFS_web_ZDg0ZGI4ZDhhNzRjOGFmODBlZjc4N2My@192.168.48.151:27017/db_machine_disk?authSource=admin&authMechanism=SCRAM-SHA-1
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AuthorizationDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LiveClassroom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WebSocketDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hibernatedemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/httpdemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rabbitdemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rabbitdemo2" vcs="Git" />
+  </component>
+</project>
